@@ -31,8 +31,8 @@
 
   
 #### 1. 로그인 주문상품 장바구니 담기
-![뷰쇼핑몰1](https://github.com/yongtaek12/fronted-shop/assets/72364856/18a5c329-b68d-4b2e-a200-bb73426d5ad4)
-<img width="80%" src="https://github.com/yongtaek12/fronted-shop/assets/72364856/7ddb54d6-4da5-4ddc-ab0a-cf0ee82cdefc.gif"/>
+![뷰쇼핑몰1]()
+<img width="80%" src="[https://github.com/yongtaek12/fronted-shop/assets/72364856/7ddb54d6-4da5-4ddc-ab0a-cf0ee82cdefc.gif](https://github.com/yongtaek12/fronted-shop/assets/72364856/18a5c329-b68d-4b2e-a200-bb73426d5ad4)"/>
 
 #### 2. 주문하기
 <img width="80%" src="https://github.com/yongtaek12/fronted-shop/assets/72364856/8a7d6665-9e38-46fa-a587-2847803e550c.gif"/>
