@@ -35,10 +35,10 @@
   * 해당 게시글 수정 후 수정 했던 해당 게시글 페이지로 이동
   * 다른 유저가 작성한 글은 수정하기 삭제하기 버튼 안보이게 처리
   
-#### 1. 회원가입 유효성 및 중복체크 정보수정
+#### 1. 로그인 주문상품 장바구니 담기
 <img width="80%" src="https://github.com/yongtaek12/fronted-shop/assets/72364856/7ddb54d6-4da5-4ddc-ab0a-cf0ee82cdefc.gif"/>
 
-#### 2. 회원로그인 실패 로그인 성공시
+#### 2. 주문하기
 <img width="80%" src="https://github.com/yongtaek12/fronted-shop/assets/72364856/8a7d6665-9e38-46fa-a587-2847803e550c.gif"/>
 
 
@@ -47,7 +47,7 @@
   
 
 
-# fronted
+# vue.js 셋팅
 
 ## Project setup
 ```
