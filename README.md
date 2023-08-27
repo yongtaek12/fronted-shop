@@ -29,11 +29,6 @@
  #### 3. ERD
   ![image](https://github.com/yongtaek12/fronted-shop/assets/72364856/bcb90999-75ac-49a0-b8e9-bc1b28c8260f)
 
- #### 4. 게시판
-  * 테이블 인덱스 번호에 따라 게시판 유형분류 (자유게시판, 공지사항, 고객상담,자료실)
-  * 게시물 50개 씩 페이징처리
-  * 해당 게시글 수정 후 수정 했던 해당 게시글 페이지로 이동
-  * 다른 유저가 작성한 글은 수정하기 삭제하기 버튼 안보이게 처리
   
 #### 1. 로그인 주문상품 장바구니 담기
 <img width="80%" src="https://github.com/yongtaek12/fronted-shop/assets/72364856/7ddb54d6-4da5-4ddc-ab0a-cf0ee82cdefc.gif"/>
