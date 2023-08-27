@@ -15,7 +15,7 @@
   #### 1. 로그인 페이지
 * 유효성 검사
   * 로그인 시 데이터를 토큰(Token)으로 치환하여 원본데이터 대신 토큰을 사용
-  ![image](https://github.com/yongtaek12/fronted-shop/assets/72364856/ae6ef56a-3632-4a35-a835-7d29b2c0c14a)
+  ![image](https://github.com/yongtaek12/fronted-shop/assets/72364856/d7cbbf52-9106-4dc6-a274-2c149dcf55f6)
 * 중복확인
   * 데이터베이스에 존재하는 이름 또는 아이디를 입력한 채 회원가입 버튼을 누른 경우 "이미 사용중인 아이디입니다."의 메시지를 보여주기
   * 모든 검사가 통과되었다면 로그인 페이지로 이동시키기
@@ -27,7 +27,7 @@
     * 아이디와 비밀번호가 일치하지 않을 시 "아이디 또는 비밀번호가 일치하지 않습니다. "의 메시지를 보여주기
     * 다른 아이디로 작성한 글 수정 불가능
  #### 3. ERD
-  ![image](https://github.com/yongtaek12/fronted-shop/assets/72364856/bcb90999-75ac-49a0-b8e9-bc1b28c8260f)
+  ![image](https://github.com/yongtaek12/fronted-shop/assets/72364856/ae6ef56a-3632-4a35-a835-7d29b2c0c14a)
 
   
 #### 1. 로그인 주문상품 장바구니 담기
