@@ -15,7 +15,7 @@
   #### 1. 로그인 페이지
 * 유효성 검사
   * 로그인 시 데이터를 토큰(Token)으로 치환하여 원본데이터 대신 토큰을 사용
-  ![image](https://github.com/yongtaek12/fronted-shop/assets/72364856/7e4f8cd4-eafb-40ff-aa0c-4f8d7a354b1b)
+  ![image](https://github.com/yongtaek12/fronted-shop/assets/72364856/ae6ef56a-3632-4a35-a835-7d29b2c0c14a)
 * 중복확인
   * 데이터베이스에 존재하는 이름 또는 아이디를 입력한 채 회원가입 버튼을 누른 경우 "이미 사용중인 아이디입니다."의 메시지를 보여주기
   * 모든 검사가 통과되었다면 로그인 페이지로 이동시키기
