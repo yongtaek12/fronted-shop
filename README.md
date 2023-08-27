@@ -36,7 +36,7 @@
   * 다른 유저가 작성한 글은 수정하기 삭제하기 버튼 안보이게 처리
   
 #### 1. 회원가입 유효성 및 중복체크 정보수정
-<img width="80%" src="https://user-images.githubusercontent.com/72364856/236682499-da14adc0-7ad5-4952-aa3e-40dd5d9acd38.gif"/>
+<img width="80%" src="![제목 없는 동영상 - Clipchamp로 제작 (2)](https://github.com/yongtaek12/fronted-shop/assets/72364856/7ddb54d6-4da5-4ddc-ab0a-cf0ee82cdefc)"/>
 
 #### 2. 회원로그인 실패 로그인 성공시
 <img width="80%" src="https://user-images.githubusercontent.com/72364856/236680981-1248a7f1-8812-4977-afe6-d4cecdf8173c.gif"/>
