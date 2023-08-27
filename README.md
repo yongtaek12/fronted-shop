@@ -30,11 +30,11 @@
   ![image](https://github.com/yongtaek12/fronted-shop/assets/72364856/ae6ef56a-3632-4a35-a835-7d29b2c0c14a)
 
   
-#### 1. 로그인 주문상품 장바구니 담기d
-<img width="80%" src="https://github.com/yongtaek12/fronted-shop/assets/72364856/7ddb54d6-4da5-4ddc-ab0a-cf0ee82cdefc.gif"/>
+#### 1. 로그인 주문상품 장바구니 담기
+<img width="80%" src="https://github.com/yongtaek12/fronted-shop/assets/72364856/18a5c329-b68d-4b2e-a200-bb73426d5ad4.gif"/>
 
 #### 2. 주문하기
-<img width="80%" src="https://github.com/yongtaek12/fronted-shop/assets/72364856/8a7d6665-9e38-46fa-a587-2847803e550c.gif"/>
+<img width="80%" src="https://github.com/yongtaek12/fronted-shop/assets/72364856/cf395cc1-e3f9-4ea9-a31e-5eabd4bc5c98.gif"/>
 
 
 
