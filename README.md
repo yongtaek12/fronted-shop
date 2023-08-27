@@ -39,9 +39,7 @@
 
 
 
-  
-
-
+ 
 # vue.js 셋팅
 
 ## Project setup
