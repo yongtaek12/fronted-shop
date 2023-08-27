@@ -39,10 +39,8 @@
 <img width="80%" src="https://github.com/yongtaek12/fronted-shop/assets/72364856/7ddb54d6-4da5-4ddc-ab0a-cf0ee82cdefc.gif"/>
 
 #### 2. 회원로그인 실패 로그인 성공시
-<img width="80%" src="https://user-images.githubusercontent.com/72364856/236680981-1248a7f1-8812-4977-afe6-d4cecdf8173c.gif"/>
+<img width="80%" src="[[https://user-images.githubusercontent.com/72364856/236680981-1248a7f1-8812-4977-afe6-d4cecdf8173c.gif]()](https://github.com/yongtaek12/fronted-shop/assets/72364856/8a7d6665-9e38-46fa-a587-2847803e550c)"/>
 
-#### 3. 글쓰기 수정 및 삭제
-<img width="80%" src="https://user-images.githubusercontent.com/72364856/236681967-9fc7da3d-216e-4f91-9467-1d3454c0d053.gif"/>
 
 
 
