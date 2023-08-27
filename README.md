@@ -8,7 +8,7 @@
   * 쇼핑몰 - 주문하기, 주문목록조회, 장바구니 담기
   * 사용자 - 로그인, 로그아웃, 유효성 검사 및 중복 검사 <br>
 * 개발언어 : JAVA 17
-* 개발환경 : Spring boot 3.1.2, vue 3.3.4,  Bootstrap 
+* 개발환경 : Spring boot 3.1.2, vue 3.3.4,  Bootstrap, node.js 
 * 데이터베이스 : mariaDB 10.9.7
 * 형광관리 : Git
 ### 2 요구사항 분석
